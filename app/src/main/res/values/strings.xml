@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FireBaseApp</string>
+    <string name="MESSAGE_ID">message_id</string>
 </resources>
